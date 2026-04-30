@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bootstrapping a New Project
-nav_order: 10
+nav_order: 11
 permalink: /bootstrapping-a-new-project/
 ---
 

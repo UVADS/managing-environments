@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment Variables and Secrets
-nav_order: 7
+nav_order: 8
 permalink: /environment-variables-and-secrets/
 ---
 

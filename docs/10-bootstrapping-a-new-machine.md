@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bootstrapping a New Machine
-nav_order: 9
+nav_order: 10
 permalink: /bootstrapping-a-new-machine/
 ---
 
