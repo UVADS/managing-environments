@@ -62,9 +62,9 @@ Operating System (macOS / Windows / Linux)
 Each layer is replaceable, and better tools within each layer continually emerge. Problems usually come from confusing which layer you are working on.
 
 {: .important }
-**Why Use a Shell?**
-
-A shell is the universal glue for open source tooling: nearly every data tool — Python, R, git, curl, jq, AWS CLI — reads text in and writes text out, and the shell lets you pipe them together into reproducible workflows. That text-first, composable model is what makes it possible to mix and match tools across projects instead of being locked inside one IDE or platform.
+> **Why Use a Shell?**
+> 
+> A shell is the universal glue for open source tooling: nearly every data tool — Python, R, git, curl, jq, AWS CLI — reads text in and writes text out, and the shell lets you pipe them together into reproducible workflows. That text-first, composable model is what makes it possible to mix and match tools across projects instead of being locked inside one IDE or platform.
 
 ## Going further
 
