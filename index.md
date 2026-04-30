@@ -13,12 +13,14 @@ last_modified_date: "2026-04-30 09:30AM"
 How to set up, understand, and maintain a local development environment — for data science students.
 {: .fs-6 .fw-300 }
 
-[The Mental Model](#1-the-mental-model){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[The Mental Model](the-mental-model){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Bootstrap a Machine]({{ site.baseurl }}/bootstrapping-a-new-machine/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Bootstrap a Project]({{ site.baseurl }}/bootstrapping-a-new-project/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Troubleshooting]({{ site.baseurl }}/troubleshooting/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
+
+<img align="right" style="max-width:40%;float:right;" src="https://s3.amazonaws.com/uvasds-systems/images/laptop-illustration-svg-download-png-4543731.png" />
 
 The goal here is not to memorize commands, but to build a mental model of what lives where on your machine and why.
 
@@ -43,7 +45,7 @@ By the end of this guide, you should be able to:
 
 ---
 
-## 1. The mental model
+## The mental model
 
 Before installing anything, understand the stack:
 
@@ -59,7 +61,7 @@ Operating System (macOS / Windows / Linux)
 
 Each layer is replaceable, and better tools within each layer continually emerge. Problems usually come from confusing which layer you are working on.
 
-## 12. Going further
+## Going further
 
 - Containers (Docker, Dev Containers) for fully portable environments
 - Cloud notebooks (Colab, SageMaker, Posit Cloud) as fallbacks, not replacements
