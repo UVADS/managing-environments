@@ -2,6 +2,7 @@
 layout: default
 title: Git and GitHub
 nav_order: 8
+permalink: /git-and-github/
 ---
 
 # Git and GitHub

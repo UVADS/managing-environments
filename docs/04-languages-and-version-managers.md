@@ -2,6 +2,7 @@
 layout: default
 title: Languages and Version Managers
 nav_order: 4
+permalink: /languages-and-version-managers/
 ---
 
 # Languages and version managers

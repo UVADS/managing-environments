@@ -2,6 +2,7 @@
 layout: default
 title: Bootstrapping a New Machine
 nav_order: 9
+permalink: /bootstrapping-a-new-machine/
 ---
 
 # Bootstrapping a new machine

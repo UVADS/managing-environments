@@ -2,6 +2,7 @@
 layout: default
 title: Bootstrapping a New Project
 nav_order: 10
+permalink: /bootstrapping-a-new-project/
 ---
 
 # Bootstrapping a new project

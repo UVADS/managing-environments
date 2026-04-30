@@ -2,6 +2,7 @@
 layout: default
 title: The Shell
 nav_order: 2
+permalink: /shell/
 ---
 
 # The shell

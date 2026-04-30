@@ -2,6 +2,7 @@
 layout: default
 title: Editors and IDEs
 nav_order: 6
+permalink: /editors-and-ides/
 ---
 
 # Editors and IDEs

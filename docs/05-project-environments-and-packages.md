@@ -2,6 +2,7 @@
 layout: default
 title: Project Environments and Packages
 nav_order: 5
+permalink: /project-environments-and-packages/
 ---
 
 # Project environments and packages

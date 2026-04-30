@@ -13,7 +13,7 @@ last_modified_date: "2026-04-30 09:30AM"
 How to set up, understand, and maintain a local development environment — for data science students.
 {: .fs-6 .fw-300 }
 
-[The Mental Model](the-mental-model){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[The Mental Model](#the-mental-model){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Bootstrap a Machine]({{ site.baseurl }}/bootstrapping-a-new-machine/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Bootstrap a Project]({{ site.baseurl }}/bootstrapping-a-new-project/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Troubleshooting]({{ site.baseurl }}/troubleshooting/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

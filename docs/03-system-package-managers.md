@@ -2,6 +2,7 @@
 layout: default
 title: System Package Managers
 nav_order: 3
+permalink: /system-package-managers/
 ---
 
 # System package managers
