@@ -6,10 +6,6 @@ permalink: /shell/
 ---
 
 # The shell
-{: .no_toc }
-
-- TOC
-{:toc}
 
 - Identify your shell (`echo $SHELL`)
 - Configuration files: `~/.zshrc`, `~/.bashrc`, `~/.zprofile`, `~/.bash_profile`

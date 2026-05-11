@@ -6,10 +6,6 @@ permalink: /troubleshooting/
 ---
 
 # Troubleshooting
-{: .no_toc }
-
-- TOC
-{:toc}
 
 When something breaks, work down the stack:
 

@@ -6,10 +6,6 @@ permalink: /bootstrapping-a-new-project/
 ---
 
 # Bootstrapping a new project
-{: .no_toc }
-
-- TOC
-{:toc}
 
 The minimum a new project should have on day one:
 

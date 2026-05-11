@@ -6,10 +6,6 @@ permalink: /system-package-managers/
 ---
 
 # System package managers
-{: .no_toc }
-
-- TOC
-{:toc}
 
 Install once, used by everything below.
 

@@ -6,10 +6,6 @@ permalink: /editors-and-ides/
 ---
 
 # Editors and IDEs
-{: .no_toc }
-
-- TOC
-{:toc}
 
 Pick one primary editor and learn it well.
 

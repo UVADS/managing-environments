@@ -6,10 +6,6 @@ permalink: /git-and-github/
 ---
 
 # Git and GitHub
-{: .no_toc }
-
-- TOC
-{:toc}
 
 - `git` config: name, email, default branch, editor
 - SSH keys vs. HTTPS + credential helper

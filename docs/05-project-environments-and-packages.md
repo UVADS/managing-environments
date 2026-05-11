@@ -6,10 +6,6 @@ permalink: /project-environments-and-packages/
 ---
 
 # Project environments and packages
-{: .no_toc }
-
-- TOC
-{:toc}
 
 The single most important habit: **one isolated environment per project.**
 
