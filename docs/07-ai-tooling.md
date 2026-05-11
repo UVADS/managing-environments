@@ -6,9 +6,9 @@ permalink: /ai-tooling/
 ---
 
 # AI tooling
-{: .no_toc .text-delta }
+{: .no_toc }
 
-1. TOC
+- TOC
 {:toc}
 
 
