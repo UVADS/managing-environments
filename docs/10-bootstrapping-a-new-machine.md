@@ -6,6 +6,10 @@ permalink: /bootstrapping-a-new-machine/
 ---
 
 # Bootstrapping a new machine
+{: .no_toc }
+
+- TOC
+{:toc}
 
 A checklist students can run top-to-bottom on a fresh laptop:
 

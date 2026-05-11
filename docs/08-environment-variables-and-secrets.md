@@ -6,6 +6,10 @@ permalink: /environment-variables-and-secrets/
 ---
 
 # Environment variables and secrets
+{: .no_toc }
+
+- TOC
+{:toc}
 
 What an environment variable is, and the three places they typically live:
 

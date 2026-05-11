@@ -6,6 +6,10 @@ permalink: /languages-and-version-managers/
 ---
 
 # Languages and version managers
+{: .no_toc }
+
+- TOC
+{:toc}
 
 Never rely on the system Python (or R, or Node). Use a version manager so you can install, switch, and remove versions cleanly.
 
