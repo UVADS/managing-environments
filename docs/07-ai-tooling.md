@@ -5,6 +5,15 @@ nav_order: 7
 permalink: /ai-tooling/
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # AI tooling
 
 AI and LLM-powered assistants — Claude Code, Cursor, GitHub Copilot, Codex CLI, and the agent features built into modern IDEs — are now a standard part of the local development stack. Treat them as another layer alongside your shell, package managers, and editor: something you install, configure, and learn to use deliberately.
