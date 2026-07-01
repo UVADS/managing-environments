@@ -12,8 +12,8 @@ The single most important habit: **one isolated environment per project.**
 
 ### Python Versions
 
-- `uv`
-- `pyenv`
+- `uv` - [Watch an overview](https://www.youtube.com/watch?v=5rTwOt9Qgik)
+- `pyenv` - [Watch an overview](https://www.youtube.com/watch?v=h2azrD35EYA)
 
 ### Python Virtual Environments
 
