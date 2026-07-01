@@ -3,16 +3,22 @@ layout: default
 title: Project Environments and Packages
 nav_order: 5
 permalink: /project-environments-and-packages/
+last_modified_date: "2026-07-01 02:13AM"
 ---
 
 # Project environments and packages
 
 The single most important habit: **one isolated environment per project.**
 
-### Python options
+### Python Versions
 
-- `venv` + `pip` — built-in, simple, universal
-- `uv` — fast, modern, recommended default
+- `uv`
+- `pyenv`
+
+### Python Virtual Environments
+
+- `venv` + `pip` — built-in, simple, universal. The "old" way to manage Python environments.
+- `uv` — fast, modern, recommended default.
 - `pipenv` — modern, handles both env and packages
 - `conda` / `mamba` — best when you need non-Python binaries (GDAL, CUDA, etc.)
 - `poetry`, `pdm` — alternatives worth knowing
@@ -24,6 +30,6 @@ The single most important habit: **one isolated environment per project.**
 
 ### Reproducibility checklist
 
-- A lockfile is committed (`uv.lock`, `requirements.txt`, `renv.lock`)
-- The README states the language version
+- A lockfile is committed (`uv.lock`, `requirements.txt`, `Pipfile.lock`, `renv.lock`)
+- The `README` states the language version
 - A new clone can run one command to get a working environment
