@@ -3,6 +3,7 @@ layout: default
 title: AI Tooling
 nav_order: 7
 permalink: /ai-tooling/
+last_modified_date: "2026-05-11"
 ---
 
 # AI tooling

@@ -3,6 +3,7 @@ layout: default
 title: Environment Variables and Secrets
 nav_order: 8
 permalink: /environment-variables-and-secrets/
+last_modified_date: "2026-05-11"
 ---
 
 # Environment variables and secrets

@@ -3,6 +3,7 @@ layout: default
 title: Bootstrapping a New Project
 nav_order: 11
 permalink: /bootstrapping-a-new-project/
+last_modified_date: "2026-05-11"
 ---
 
 # Bootstrapping a new project

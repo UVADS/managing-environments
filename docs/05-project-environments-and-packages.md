@@ -3,7 +3,7 @@ layout: default
 title: Project Environments and Packages
 nav_order: 5
 permalink: /project-environments-and-packages/
-last_modified_date: "2026-07-01 02:13AM"
+last_modified_date: "2026-07-01"
 ---
 
 # Project environments and packages

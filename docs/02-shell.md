@@ -3,6 +3,7 @@ layout: default
 title: The Shell
 nav_order: 2
 permalink: /shell/
+last_modified_date: "2026-05-11"
 ---
 
 # The shell

@@ -3,6 +3,7 @@ layout: default
 title: Languages and Version Managers
 nav_order: 4
 permalink: /languages-and-version-managers/
+last_modified_date: "2026-05-11"
 ---
 
 # Languages and version managers

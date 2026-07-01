@@ -3,6 +3,7 @@ layout: default
 title: Bootstrapping a New Machine
 nav_order: 10
 permalink: /bootstrapping-a-new-machine/
+last_modified_date: "2026-05-11"
 ---
 
 # Bootstrapping a new machine

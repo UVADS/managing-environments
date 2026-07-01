@@ -3,6 +3,7 @@ layout: default
 title: Git and GitHub
 nav_order: 9
 permalink: /git-and-github/
+last_modified_date: "2026-05-11"
 ---
 
 # Git and GitHub
