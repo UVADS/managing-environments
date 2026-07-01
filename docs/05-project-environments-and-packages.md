@@ -24,7 +24,7 @@ The single most important habit: **one isolated environment per project.**
 - `poetry`, `pdm` — alternatives worth knowing
 
 {: .highlight }
-> Why not use `venv` and `pip`? 
+> **Why not use `venv` and `pip`?**
 > 
 > Designed to solve the problem of virtual environments and package management, these tools are slow and inconsistent. Some reasons newer tools such as `uv` are better:
 > 
